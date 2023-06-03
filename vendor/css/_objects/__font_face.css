@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "inter";
+  src: url("../../assets/fonts/inter/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: "interMedium";
+  src: url("../../assets/fonts/inter/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: "interBold";
+  src: url("../../assets/fonts/inter/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "interSemiBold";
+  src: url("../../assets/fonts/inter/Inter-SemiBold.ttf");
+}
