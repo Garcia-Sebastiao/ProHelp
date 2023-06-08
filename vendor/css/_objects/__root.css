@@ -12,4 +12,6 @@
  
  body, html {
      background-color: var(--bg);
+     overflow-x: hidden;
+     overflow-y: hidden;
  }
